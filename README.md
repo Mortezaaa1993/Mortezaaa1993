@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Mortezaaa1993
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Deep Learning.
+- 💞️ I’m looking to collaborate on Data Science projects.
+- 📫 How to reach me:
+- morteza.belbasi@gmail.com
